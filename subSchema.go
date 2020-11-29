@@ -27,7 +27,7 @@
 package gojsonschema
 
 import (
-	"github.com/xeipuuv/gojsonreference"
+	"github.com/sysu-matrix/gojsonreference"
 	"math/big"
 	"regexp"
 )

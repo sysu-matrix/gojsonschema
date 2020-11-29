@@ -37,7 +37,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/xeipuuv/gojsonreference"
+	"github.com/sysu-matrix/gojsonreference"
 )
 
 var osFS = osFileSystem(os.Open)

@@ -33,7 +33,7 @@ import (
 	"regexp"
 	"text/template"
 
-	"github.com/xeipuuv/gojsonreference"
+	"github.com/sysu-matrix/gojsonreference"
 )
 
 var (
